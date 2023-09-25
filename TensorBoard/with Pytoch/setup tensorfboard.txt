@@ -1,0 +1,7 @@
+the first step is launch Tensorboard Host
+install matplotlib
+install pytorch
+install torchvision
+tensorboard --logdir=runs
+
+# By using Pip in the terminal
